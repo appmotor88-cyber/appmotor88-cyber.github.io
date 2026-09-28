@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.appmotor88_cyber.twa",
-    "sha256_cert_fingerprints": ["5D:71:2B:E0:75:B2:48:EC:0E:45:A9:DC:44:5A:CB:0D:7F:6B:DB:AC:35:CF:10:46:0C:FC:CD:27:43:63:2B:70"]
-  }
-}]
